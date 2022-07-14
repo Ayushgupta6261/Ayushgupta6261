@@ -1,0 +1,122 @@
+{
+    "basics": {
+        "name": "Ayush Gupta",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kucp1039@iiitkota.ac.in",
+        "phone": "+916261378060",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Building awesome WebApp. I have enthusiasm in Full Stack development.",
+        "location": {
+            "address": "Satna",
+            "postalCode": "485221",
+            "city": "Satna",
+            "countryCode": " India",
+            "region": "Madhya Pradesh"
+        },
+        "profiles": [
+            {
+                "network": "",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Github",
+                "username": "Ayushgupta6261",
+                "url":"https://github.com/Ayushgupta6261"
+            },
+            {
+                "network": "linkedin",
+                "username": "Ayush Gupta",
+                "url": "https://www.linkedin.com/in/ayush-gupta-38a80b22a"
+            },
+            {
+                "network": "Instagram",
+                "username": "",
+                "url": ""
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "IIITians Network",
+            "position": "Web Developer",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "IIIT Kota",
+            "position": "Web Developer",
+            "website": "https://iiitkota.ac.in",
+            "startDate": "",
+            "endDate": "",
+            "summary": "Worked as a web developer for creating the offical website of IIIT Kota."
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "7.0",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "IIIT Kota Website",
+            "details": "Build IIIT Kota Website Using MERN.",
+            "link": "https://iiitkota.ac.in/"
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "C/C++"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Singing",
+            "keywords": [
+                "song"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Cricket",
+                "Badminton"
+            ]
+        }
+    ]
+}
